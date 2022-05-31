@@ -1,0 +1,8 @@
+[ 
+{"id":"1","name":"Jasmine", "image":"https://static.wikia.nocookie.net/disney/images/9/90/Princesa_Jasm%C3%ADn.png/revision/latest?cb=20140123205846&path-prefix=es","age":"15 años","description": "Jasmín es la princesa de la ciudad ficticia de Agrabah.", "movies": ["1","2"]},
+{"id":"2","name":"Buzz Lightyear", "image":"https://media.revistagq.com/photos/5fd33cec52b83d3e6b3058de/2:3/w_449,h_674,c_limit/buzz%20lightyear.jpg", "age":"27 años", "description":"Buzz Lightyear es un personaje principal de la franquicia Toy Story. Es un superhéroe de juguete y una figura de acción en la franquicia. Junto con su amigo, el sheriff Woody, es uno de los dos personajes principales de las cuatro películas de Toy Story.","movies":["3","4","5","6"]},
+{"id":"3","name":"Mickey Mouse", "image":"https://akns-images.eonline.com/eol_images/Entire_Site/20121016/634.mm.cm.111612_copy.jpg?fit=around%7C634:1024&output-quality=90&crop=634:1024;center,top", "age":"94 años","description": "Mickey Mouse, el Ratón Mickey o el Ratón Miguelito, es un personaje ficticio estadounidense de la serie del mismo nombre, emblema de la compañía Disney.", "movies":["7","8","9"]}
+]
+
+
+
