@@ -1,0 +1,28 @@
+ para iniciar el puerto en consola escriba npm dev run 
+ Manejo con postman 
+ Ruta de movies = http://localhost:3000/api/movies/(NUMEROID)(delete, put)
+ movies json: ( post, put )
+  
+    {
+         "nameM": "",
+          "imageM": "",
+          "createDate": "",
+          "gender": "",
+          "characters": [""]
+    }
+
+
+Ruta que muestra los characters = http://localhost:3000/api/characters
+characters json: (post, put)
+  
+    {
+        "id": "",
+        "name": "",
+        "image": "https://static.wikia.nocookie.net/disney/images/9/90/Princesa_Jasm%C3%ADn.png/revision/latest?cb=20140123205846&path-prefix=es",
+        "age": "",
+        "description": "",
+        "movies": [
+            "",
+            ""
+        ]
+    }
